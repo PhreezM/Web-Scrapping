@@ -13,4 +13,3 @@ On récupere les données propres dans un fichier recup_clean.csv
 
 Le fichier testUnit.py contient peu de test.
 
-Undersupervision of M.Ouziri
